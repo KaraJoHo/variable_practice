@@ -25,3 +25,17 @@ another_decimal_point = 2.02
 
 currently_happy = false
 currently_sad = true
+
+##Puts statements
+
+puts my_name
+puts my_mood
+
+puts my_age
+puts a_hundred
+
+puts decimal_point
+puts another_decimal_point
+
+puts currently_happy
+puts currently_sad
